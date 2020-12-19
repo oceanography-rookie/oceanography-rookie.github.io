@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Dong's blog
+  - title: Dong's blog!
 
   - title: all posts
     post_list:
@@ -21,7 +21,7 @@ entries:
 
   - title: social
     entries:
-      
+
 
   - title: rss
     url: feed.xml
